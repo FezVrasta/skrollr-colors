@@ -8,7 +8,7 @@ How to use:
 
 Include the plugin before ``skrollr.js`` and enjoy.  
 
-    <script src="js/skroll-colors.js"></script>
+    <script src="js/skroll-colors.min.js"></script>
     <!-- skroll.js code -->
     </body>
     
