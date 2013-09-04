@@ -30,11 +30,11 @@ Example:
 Supported color annotations
 --------------
 
-- HEX 3 digits: #F0F
-- HEX 6 digits: #F0F0F0
-- RGB: rgb(0,0,0)
-- RGBA: rgba(0,0,0,0)
-- HSL: hsl(0,0%,0%)
+- **HEX 3 digits**: #F0F
+- **HEX 6 digits**: #F0F0F0
+- **RGB**: rgb(0,0,0)
+- **RGBA**: rgba(0,0,0,0)
+- **HSL**: hsl(0,0%,0%)
 
 ToDo
 ----------
