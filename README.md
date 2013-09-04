@@ -23,4 +23,4 @@ Now you can use codes like:
 
 Example:
 
-[JSFiddle](http://jsfiddle.net/nL75k/1/)
+[JSFiddle](http://jsfiddle.net/zqcx4/)
