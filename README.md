@@ -7,6 +7,11 @@ How to use:
 --------------
 
 Include the plugin before ``skrollr.js`` and enjoy.  
+
+    <script src="js/skroll-colors.js"></script>
+    <!-- skroll.js code -->
+    </body>
+    
 Now you can use codes like:
 
     <div 
