@@ -42,7 +42,7 @@ Supported formats:
 - **RGBA**: rgba(0,0,0,0.5)
 - **HSL**: hsl(0,0%,0%)
 
-HSLA is not parsed at all, seen skrollr-colors aim to convert everything to HSLA.
+HSLA is not parsed at all, seen skrollr-colors aims to convert everything to HSLA.
 
 ToDo
 ----------
