@@ -26,7 +26,7 @@ Now you can use codes like:
 
 Example:
 -------------
-[JSFiddle](http://jsfiddle.net/zqcx4/)
+[JSFiddle](http://jsfiddle.net/zqcx4/1/)
 
 
 Supported color formats
