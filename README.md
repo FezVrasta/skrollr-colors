@@ -30,6 +30,10 @@ Example:
 Supported color annotations
 --------------
 
+skrollr-colors detects even if there are spaces between values and commas and is case-insensitive.
+
+Supported annotations:
+
 - **HEX 3 digits**: #F0F
 - **HEX 6 digits**: #F0F0F0
 - **RGB**: rgb(0,0,0)
@@ -39,5 +43,4 @@ Supported color annotations
 ToDo
 ----------
 
-- Add support for spaces between values
-- Find a way to convert HEX to HSL in one step
+- Nothing?
