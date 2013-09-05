@@ -1,7 +1,7 @@
 skrollr-colors
 ==============
 
-Parses ``data-`` tags and convert different colors annotations to HSLA to allow transitions in skrollr.  
+Parses ``data-`` tags and converts different colors annotations to HSLA to allow transitions in skrollr.  
 It will parse every color in ``data-`` attributes, even in CSS gradients.
 
 How to use:
