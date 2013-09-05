@@ -37,9 +37,9 @@ skrollr-colors detects even if there are spaces between values and commas and is
 Supported formats:
 
 - **HEX 3 digits**: #F0F
-- **HEX 6 digits**: #F0F0F0
+- **HEX 6 digits**: #FF00FF
 - **RGB**: rgb(0,0,0)
-- **RGBA**: rgba(0,0,0,0)
+- **RGBA**: rgba(0,0,0,0.5)
 - **HSL**: hsl(0,0%,0%)
 
 HSLA is not parsed at all, seen skrollr-colors aim to convert everything to HSLA.
