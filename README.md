@@ -17,7 +17,7 @@ Now you can use codes like:
 
     <div 
         data-0="background-color: #000;"
-        data-400="background-color: hsl(100,80%,90%,1);"
+        data-400="background-color: hsl(100,80%,90%);"
         data-top="background-color: rgba(255,255,255,1);"
     >
         WHOOT
