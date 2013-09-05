@@ -1,7 +1,7 @@
 skrollr-colors
 ==============
 
-Parses ``data-`` tags and converts different colors annotations to HSLA to allow transitions in skrollr.  
+Parses ``data-`` tags and converts different colors formats to HSLA to allow transitions in skrollr.  
 It will parse every color in ``data-`` attributes, even in CSS gradients.
 
 How to use:
@@ -29,12 +29,12 @@ Example:
 [JSFiddle](http://jsfiddle.net/zqcx4/)
 
 
-Supported color annotations
+Supported color formats
 --------------
 
 skrollr-colors detects even if there are spaces between values and commas and is case-insensitive.
 
-Supported annotations:
+Supported formats:
 
 - **HEX 3 digits**: #F0F
 - **HEX 6 digits**: #F0F0F0
