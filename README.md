@@ -42,6 +42,8 @@ Supported annotations:
 - **RGBA**: rgba(0,0,0,0)
 - **HSL**: hsl(0,0%,0%)
 
+HSLA is not parsed at all, seen skrollr-colors aim to convert everything to HSLA.
+
 ToDo
 ----------
 
