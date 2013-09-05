@@ -1,6 +1,7 @@
 /*! scrollr-colors
  *   skrollr plugin to allow transitions between different kind of colors annotations
  */
+ 
 (function () {
     "use strict"; // Be serious
 
