@@ -10,6 +10,12 @@
 
     function hexToRgba(hex) {
         var result = /^#?([a-fA-F\d]{1,2})([a-fA-F\d]{1,2})([a-fA-F\d]{1,2})$/g.exec(hex);
+        if (result[1].length === 1) {
+            // deal with short codes like #F00
+            result[1] = result[1] + '' + result[1]; // string concat.
+            result[2] = result[2] + '' + result[2]; // string concat.
+            result[3] = result[3] + '' + result[3]; // string concat.
+        }
         return "rgba(" + parseInt(result[1], 16) + "," + parseInt(result[2], 16) + "," + parseInt(result[3], 16) + ",1)";
     }
 
