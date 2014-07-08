@@ -26,7 +26,7 @@ Now you can use codes like:
 
 Example:
 -------------
-[JSFiddle](http://jsfiddle.net/zqcx4/175/)
+[Demo on Codepen](http://codepen.io/FezVrasta/pen/lzxbj)
 
 
 Supported color formats
