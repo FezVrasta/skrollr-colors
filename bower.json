@@ -1,0 +1,22 @@
+{
+  "name": "skrollr-colors",
+  "version": "1.0.1",
+  "homepage": "https://github.com/FezVrasta/skrollr-colors",
+  "authors": [
+    "Fez Vrasta <info@mywebexpression.com>",
+    "abritinthebay <gregory@wild-smith.com>"
+  ],
+  "description": "Skrollr plugin to use mixed color formats in keyframes.",
+  "main": "./dist/skroll-colors.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skrollr": "~0.6"
+  }
+}
