@@ -9,7 +9,7 @@
     // We convert HEX to RGBA, then we'll convert RGBA to HSLA (I'd like to find a way to convert HEX>HSLA in one step)
 
     function hexToRgba(hex) {
-        var result = /#([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9])([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9])([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9])/g.exec(hex);
+        var result = /^#?([a-fA-F\d]{1,2})([a-fA-F\d]{1,2})([a-fA-F\d]{1,2})$/g.exec(hex);
         return "rgba(" + parseInt(result[1], 16) + "," + parseInt(result[2], 16) + "," + parseInt(result[3], 16) + ",1)";
     }
 
